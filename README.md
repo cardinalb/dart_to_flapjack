@@ -5,7 +5,9 @@ Input file (*tab delimited text file but an easy tweak in the code to change to 
 
 
 Allele_ID,snp,266759,194916,195959,191884,191481,206877,207069
+
 1002968|F|0--60:C>T,60:C>T,0,1,1,1,0,1,0
+
 1002968|F|0--60:C>T-60:C>T,60:C>T,1,0,1,0,1,0,1	
 
 The calls will be in pairs of lines, these should be sequential in the file.
