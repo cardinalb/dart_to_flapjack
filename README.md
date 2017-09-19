@@ -1,5 +1,5 @@
 # dart_to_flapjack
-DArT (well a modified DArT) to Flapjack format.
+[DArT (well a modified DArT)](http://www.diversityarrays.com) to [Flapjack](https://ics.hutton.ac.uk/flapjack/) format.
 
 Input file (*tab delimited text file but an easy tweak in the code to change to csv*) needs to be in this form.
 
