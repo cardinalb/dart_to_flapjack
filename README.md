@@ -31,7 +31,7 @@ Allele CT
 1-  -> C? (i.e., homozygote for C or heterozygote)
 
 11  -> CT (i.e., heterozygote)
-``
+```
 
 This is Perl code. Requires input file in $ARGV[0] and output in $ARGV[1] which are passed as command line arguments as you would expect.
 
