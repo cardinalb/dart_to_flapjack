@@ -2,9 +2,9 @@
 DArT (well a modified DArT) to Flapjack format.
 
 Input file (Tab delimited text file) needs to be in this form which is how it has been supplied by CIMMYT in the past.
-Allele_ID              		snp         	266759  194916  195959  191884  191481  206877  207069
-1002968|F|0--60:C>T     	60:C>T             0       1      1        1      0       1       0
-1002968|F|0--60:C>T-60:C>T      60:C>T             1       0      1        0      1       0       1	
+Allele_ID,snp,266759,194916,195959,191884,191481,206877,207069
+1002968|F|0--60:C>T,60:C>T,0,1,1,1,0,1,0
+1002968|F|0--60:C>T-60:C>T,60:C>T,1,0,1,0,1,0,1	
 
 The calls will be in pairs of lines, these should be sequential in the file.
 
